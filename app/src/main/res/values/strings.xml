@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name">Felix Acosta</string>
+    <string name="star_description">Yellow star</string>
+    <string name="bio_text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Dolorem eaque fuga nemo quibusdam veritatis!
+        Adipisci consectetur molestiae nemo neque perspiciatis quidem, quod ratione.
+        Aperiam deleniti dolorum error incidunt soluta voluptas?
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Dolorem eaque fuga nemo quibusdam veritatis!
+        \n\nAdipisci consectetur molestiae nemo neque perspiciatis quidem, quod ratione.
+        Aperiam deleniti dolorum error incidunt soluta voluptas?
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Dolorem eaque fuga nemo quibusdam veritatis!
+        Adipisci consectetur molestiae nemo neque perspiciatis quidem, quod ratione.
+        Aperiam deleniti dolorum error incidunt soluta voluptas?
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Dolorem eaque fuga nemo quibusdam veritatis!
+        \n\nAdipisci consectetur molestiae nemo neque perspiciatis quidem, quod ratione.
+        Aperiam deleniti dolorum error incidunt soluta voluptas?
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Dolorem eaque fuga nemo quibusdam veritatis!
+        Adipisci consectetur molestiae nemo neque perspiciatis quidem, quod ratione.
+        Aperiam deleniti dolorum error incidunt soluta voluptas?
+
+    </string>
+    <string name="hint_nickname">Teclea tu nickname</string>
+    <string name="btn_string">LISTO</string>
+</resources>
